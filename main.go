@@ -15,4 +15,7 @@ func main() {
 	fmt.Println(s1)
 	fmt.Println(s2)
 	fmt.Println(s3)
+
+	puppy.FromV1()
+	puppy.FromV2()
 }

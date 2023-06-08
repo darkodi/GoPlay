@@ -2,3 +2,7 @@ github.com/darkodi/dog v0.0.0-20230606123908-072ab5cb862f h1:P1dy5jBxk96M0Cm3A2B
 github.com/darkodi/dog v0.0.0-20230606123908-072ab5cb862f/go.mod h1:jGzC7mpfm7jpiAGRXlby0erabd8CFOInffyYV4Kxmpk=
 github.com/darkodi/puppy v0.0.0-20230606124321-6df37c7aea76 h1:5fDcRkxArl4sPQz+CmOcA96hu0tu1FBsVqgtINQNqX8=
 github.com/darkodi/puppy v0.0.0-20230606124321-6df37c7aea76/go.mod h1:uIdmEkDOK7VYkkNWz4jIREMDqFkXcrBEeVX2KMpsn60=
+github.com/darkodi/puppy v1.1.0 h1:rMhyDsgx7TK1Uju01auyttxw4x9F6Tf9ytULadVxvYE=
+github.com/darkodi/puppy v1.1.0/go.mod h1:uIdmEkDOK7VYkkNWz4jIREMDqFkXcrBEeVX2KMpsn60=
+github.com/darkodi/puppy v1.2.0 h1:mY0Qs5c/QAbapnN5zOxFLbZhUMVUGX7Ddyt+vew1kQo=
+github.com/darkodi/puppy v1.2.0/go.mod h1:uIdmEkDOK7VYkkNWz4jIREMDqFkXcrBEeVX2KMpsn60=
